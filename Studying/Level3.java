@@ -3,7 +3,6 @@ public class Level3 {
         int age = 17; // 나이
         String eventCode = "E3"; // 변수명 선언 시 파이썬 처럼 _ 쓰지말기
         int reserveDate = 14;
-        
 
         if (eventCode == "E1") {
             if (age >= 18)
@@ -27,7 +26,7 @@ public class Level3 {
             else {
                 System.out.println("예약완료!");
                 }
-
+            else if
             
         } else {
             System.out.println("잘못된 입력입니다. 프로그램을 종료");
