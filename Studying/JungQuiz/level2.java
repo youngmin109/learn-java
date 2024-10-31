@@ -1,3 +1,5 @@
+package JungQuiz;
+
 import java.util.Scanner;
 
 public class level2 {

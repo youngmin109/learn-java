@@ -3,7 +3,6 @@ package Review;
 public class Level3 {
     public static void main(String[] args) {
 
-
         // 사용자 정보 입력
         // 나이 입력
         // 이벤트 코드 입력

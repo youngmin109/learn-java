@@ -1,3 +1,5 @@
+package JungQuiz;
+
 public class Level3 {
     public static void main(String[] args) {
         int age = 17; // 나이
@@ -26,7 +28,7 @@ public class Level3 {
             else {
                 System.out.println("예약완료!");
                 }
-            else if
+
             
         } else {
             System.out.println("잘못된 입력입니다. 프로그램을 종료");

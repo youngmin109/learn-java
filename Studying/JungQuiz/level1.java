@@ -1,3 +1,4 @@
+package JungQuiz;
 
 import java.util.Scanner;
 
