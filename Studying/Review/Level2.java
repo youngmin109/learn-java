@@ -1,4 +1,4 @@
-package Review;
+package Studying.Review;
 
 import java.util.Scanner;
 

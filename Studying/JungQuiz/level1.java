@@ -1,4 +1,4 @@
-package JungQuiz;
+package Studying.JungQuiz;
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package Studying;
+
 import java.util.Scanner;
 
 public class Test4 {
