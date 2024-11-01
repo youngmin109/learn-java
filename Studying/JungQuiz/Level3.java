@@ -1,9 +1,10 @@
+package JungQuiz;
+
 public class Level3 {
     public static void main(String[] args) {
         int age = 17; // 나이
         String eventCode = "E3"; // 변수명 선언 시 파이썬 처럼 _ 쓰지말기
         int reserveDate = 14;
-        
 
         if (eventCode == "E1") {
             if (age >= 18)
