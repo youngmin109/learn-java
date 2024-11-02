@@ -46,7 +46,7 @@ public class Test5 {
         // Task3
         // 현재 1차원 배열에 입력된 값을 역순으로 출력하라
         // 반복문
-        for (int i = bar.length - 1; i >= 0; i--){
+        for (int i = bar.length - 1; i >= 0; i--) {
             // 배열의 값을 역순으로 출력
             int value = bar[i];
             System.out.print(value + " ");
