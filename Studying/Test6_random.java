@@ -18,6 +18,7 @@ public class Test6_random {
             if (N > 0) {
                 break;
             }
+            System.out.println("양수 값만 입력!");
             // N이 양수일 경우에만 탈출
         }
         // N개의 정수형 원소를 가지는 1차원 배열 생성
@@ -37,7 +38,7 @@ public class Test6_random {
             if (N <= (end - start + 1)){
                 break;
             }
-            System.out.println("end - start + 1이 N보다 크거나 같아야 합니다!");
+            System.out.println("end - start + 1이 N보다 크거나 같아야 해!");
         }
 
         // start <= 난수 값 <= end 범위의 난수를 생성하여 배열에 저장
@@ -66,3 +67,22 @@ public class Test6_random {
         // 생성된 배열의 모든 원소 값을 출력하라.
     }
 }
+
+/*
+교수님 코드
+
+Scanner sc = new Scanner(system.in);
+
+int numOfElements = 0;
+
+// 재입력은 무조건 무한루프
+while (true) {
+    numOfElements = sc.nextInt();
+    if
+
+
+int start = sc.nextInt();
+int end = sc.nextInt();
+
+
+ */

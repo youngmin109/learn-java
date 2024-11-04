@@ -6,8 +6,7 @@ public class Test5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // 배열 생성
-        int bar[];
+
         // 변수 초기화
         int N = 0;
 
@@ -25,7 +24,7 @@ public class Test5 {
         // Task2
         // 생성된 1차원 배열에 사용자로부터 값을 입력 받아 배열에 순차적으로 저장
         // 배열에 값 할당
-        bar = new int[N];
+        int bar[] = new int[N];
         int count = 0; // 반복 카운트
 
         // for문으로 입력된 값으로 배열에 저장
