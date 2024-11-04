@@ -1,4 +1,5 @@
 package Studying;
+
 import java.util.Scanner;
 
 public class Test6_random {
@@ -28,14 +29,14 @@ public class Test6_random {
         int start = 0, end = 0;
 
         // 무한반복
-        while (true){
+        while (true) {
             // 사용자로부터 start / end 값 입력받는다
             System.out.print("start 값: ");
             start = sc.nextInt();
             System.out.print("end 값: ");
             end = sc.nextInt();
             // (end - start + 1) 값이 배열의 크기 N보다 크거나 같을경우 탈출
-            if (N <= (end - start + 1)){
+            if (N <= (end - start + 1)) {
                 break;
             }
             System.out.println("end - start + 1이 N보다 크거나 같아야 해!");
@@ -45,26 +46,25 @@ public class Test6_random {
         // math.random 사용하여
         // * (end - start + 1) + min
         // 원소 개수 만큼 저장해야하니까 반복문 사용
-        for(int i = 0; i < bar.length; i++){
-            int randomInt = (int)(Math.random() * (end - start + 1)) + start;
-            bar[i] = randomInt;
+        for (int i = 0; i < bar.length; i++) {
+            bar[i] = (int) (Math.random() * (end - start + 1)) + start;
+
+            // 생성된 배열의 모든 원소 값 출력
+            // for - each문으로 한 번에 값 출력
+            for (int value : bar) {
+                System.out.print(value + " ");
+            }
+
+            sc.close();
+
+            // 사용자로부터 난수 범위를 지정할 start, end 값을 입력받아,
+            // start <= 난수 값 <= end 범위의 난수를 생성하여 배열에 저장하라.
+            // 단, (end - start + 1) 값이 배열의 크기 N보다 작을 경우
+            // 다시 입력을 요구한다.
+            // 예) N = 5 -> 5개의 원소를 가지는 1차원 배열 생성
+            //     start = 10, end = 12 -> 배열 원소는 10, 11, 12 중 하나의 값이어야 함
+            // 생성된 배열의 모든 원소 값을 출력하라.
         }
-
-        // 생성된 배열의 모든 원소 값 출력
-        // for - each문으로 한 번에 값 출력
-        for (int value : bar){
-            System.out.print(value + " ");
-        }
-
-        sc.close();
-
-        // 사용자로부터 난수 범위를 지정할 start, end 값을 입력받아,
-        // start <= 난수 값 <= end 범위의 난수를 생성하여 배열에 저장하라.
-        // 단, (end - start + 1) 값이 배열의 크기 N보다 작을 경우
-        // 다시 입력을 요구한다.
-        // 예) N = 5 -> 5개의 원소를 가지는 1차원 배열 생성
-        //     start = 10, end = 12 -> 배열 원소는 10, 11, 12 중 하나의 값이어야 함
-        // 생성된 배열의 모든 원소 값을 출력하라.
     }
 }
 
