@@ -25,24 +25,22 @@ public class Test7_kaibaipo {
 
         // 무한루프
         while (true) {
-
             System.out.println("Scissors, Rock, Paper 중 하나를 입력 하세요");
             String userInput = sc.nextLine();
 
             // 예외 처리
             // 1: quit 이면 -> 프로그램 종료 -> break
-            // 2: 잘못된 입력 -> 재입력 -> continue
             if (userInput.equals("quit")) {
                 break;
             }
-            if (!userInput.equals("Scissors")&&!userInput.equals("Paper")&&!userInput.equals("Rock")){
+            // 2: 잘못된 입력 -> 재입력 -> continue
+            if (!userInput.equals("Scissors") && !userInput.equals("Paper") && !userInput.equals("Rock")) {
                 System.out.println("잘못된 입력입니다.");
                 continue;
             }
             // 컴퓨터 선택 : 가위, 바위, 보 중 하나 선택
             // 난수 이용 : 0 ~ 2 사이 난수 발생 후 "가위, 바위, 보"에 매칭
-            String sciRockPaer[] = {"Scissors", "Rock", "Papers"};
-
+            String sciRockPaper[] = {"Scissors", "Rock", "Papers"};
             int computerInput = (int) (Math.random() * 3);
 
             // switch expression 사용
@@ -53,13 +51,24 @@ public class Test7_kaibaipo {
                 case "Paper" -> 2;
                 default -> -1;
             };
-            // 결과값 변수
 
+            // 결과값 변수
+            String result = "";
 
             // 무승부
             if (user == computerInput) {
-
+                result = "무승부";
+            } else if ((user == 0 && computerInput == 2) ||
+                    (user == 1 && computerInput == 0) ||
+                    (user == 2 && computerInput == 1)) {
+                result = "승리";
+            } else { //패배
+                result = "패배";
             }
+            //결과 출력
+            System.out.println(result + " 사용자: " + userInput + " 컴퓨터: " + sciRockPaper[computerInput]);
         }
+        sc.close();
     }
 }
+
