@@ -26,10 +26,16 @@ public class Class1108 {
         //    7점이상이면 : "축하합니다. 승리~" -7이하이면 "다음 기회에"
 
         Scanner sc = new Scanner(System.in);
+        // 현재 포인트
+        int currentPoint = 0;
+        // 보너스 포인트
+        int bounusPoint = 0;
+        // 승리 카운트
+        int winCount = 0;
 
         while (true) {
             // 사용자로부터 입력 : "Scissors, Rock, Paper"
-            String inputValue = sc.next();
+            String inputValue = sc.nextLine();
 
             int userSelection = switch (inputValue) {
                 case "Scissors" -> 0;
@@ -52,27 +58,46 @@ public class Class1108 {
             }
 
             // 컴퓨터 선택
-            int computerSelection = (int) Math.random() * 3; // 0~2
+            int computerSelection = (int) (Math.random() * 3); // 0~2
 
             String result = "";
 
             // 결과값 판별
             if (userSelection == computerSelection) {
-                result = "무승부";
+                result = "무승부"; winCount = 0;
+
             } else if ((userSelection == 0 && computerSelection == 2) ||
                     (userSelection == 1 && computerSelection == 0) ||
                     (userSelection == 2 && computerSelection == 1)) {
-                result = "승리";
+                result = "승리"; 
+                winCount++;
+                if (winCount >= 2){
+                    currentPoint = currentPoint + 3;
+                }
+                else {
+                    currentPoint++;
+                }
+               
             } else {
-                result = "패배";
+                result = "패배"; winCount = 0;
+                currentPoint -= 1;
             }
 
-            // 결과값 출력
             String srpStrToInt[] = {"Scissors", "Rock", "Paper"};
             System.out.println(result + "\tUser : " + srpStrToInt[userSelection]
-                    + "\tComputer : " + srpStrToInt[computerSelection]);
+                + "\tComputer : " + srpStrToInt[computerSelection]);
+    
+            // 게임종료조건 추가
+            if (currentPoint >= 7){
+                System.out.println("축하합니다");
+                break;
+            } else if (currentPoint <= -7){
+                System.out.println("다음 기회에~");
+                break;
+            }
+            // 결과값 출력
+            System.out.println("현재포인트" + currentPoint);
+        
         }
-
-
     }
 }
