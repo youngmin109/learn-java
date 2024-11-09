@@ -24,7 +24,7 @@ public class J4_14 {
         }
 
         // 출력
-        System.out.println("1부터" + n + "까지의 합은" + sumValue);
+        System.out.print("1부터" + n + "까지의 합은" + sumValue);
     }
 
 }
