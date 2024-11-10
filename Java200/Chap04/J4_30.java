@@ -9,31 +9,42 @@ public class J4_30 {
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
 
-        // 0 ~ 99 랜덤값 설정
-        int randValue = rand.nextInt(100);
+        // 숫자 맞추기 게임
+        // 0~99 랜덤 숫자를 생성하고
+        // 플레이가 입력할 수 있는 횟수 8회
 
-        // 숫자맞추기 게임
-        // do-while문
+        // 랜덤 숫자 생성
+        int N = rand.nextInt(100);
 
+        // 변수 값 초기화
+        // 입력 횟수 카운트
+        int inputCount = 0;
         int inputValue = 0;
+
+        // do while 문
+        // <do> 사용자 입력 ++카운트
         do {
-            System.out.print("0 ~ 99 숫자 맞춰봐!: ");
             inputValue = sc.nextInt();
+            inputCount++;
+            // 큰 숫자일 경우
+            if (inputValue > N) {
+                System.out.println("더 작은 숫자 입니다.");
+            }
+            // 작은 숫자일 경우
+            else if (inputValue < N) {
+                System.out.println("더 큰 숫자 입니다.");
+            }
+            // <while> () 조건식 참일 경우 반복
+        } while (inputCount < 8 && inputValue != N);
 
-            if (inputValue > randValue)
-                System.out.println("더 작은 숫자입니다.");
-            else if (inputValue < randValue)
-                System.out.println("더 큰 숫자입니다.");
-        } while (randValue != inputValue);
+        // 카운트 종료 출력
+        if (inputCount >= 8)
+            System.out.print("아쉽네요. 정답은" + N + "입니다.");
+            // 정답 출력
+        else
+            System.out.print("정답!");
 
-
-        System.out.print("맞췄습니다!");
-        // <do> if문 큰 값인 경우
-        // else 작은 경우
-
-        // <while> 입력값과 랜덤값이 같을 때 까지
-
-
+        sc.close();
     }
 }
 
