@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Desktop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/JavaJungsuk/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/Level3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test6_random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/TestReview/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test4_yield.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/TestReview/review.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java200/Chap04/J4_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,24 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main 병합 중&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Class1105.executor": "Run",
+    "애플리케이션.Test7.executor": "Run",
+    "애플리케이션.Test7_kaibaipo.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Desktop" />
@@ -122,6 +103,11 @@
       <workItem from="1730735481327" duration="2339000" />
       <workItem from="1730768653603" duration="9209000" />
       <workItem from="1730895200767" duration="836000" />
+      <workItem from="1731224829240" duration="24000" />
+      <workItem from="1731224864265" duration="27000" />
+      <workItem from="1731224906485" duration="12000" />
+      <workItem from="1731235169883" duration="541000" />
+      <workItem from="1731235717687" duration="101000" />
     </task>
     <servers />
   </component>

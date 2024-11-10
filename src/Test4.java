@@ -1,4 +1,3 @@
-package Studying;
 
 import java.util.Scanner;
 

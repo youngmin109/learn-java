@@ -1,4 +1,4 @@
-package Studying.Review;
+package Review;
 
 public class Level3 {
     public static void main(String[] args) {

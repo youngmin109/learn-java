@@ -1,4 +1,3 @@
-package src;
 
 public class Class1105 {
     public static void main(String[] args) {
