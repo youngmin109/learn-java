@@ -38,6 +38,7 @@ public class SrpReview2 {
             String result = "";
             if (userSelection == comSelection) {
                 result = "무승부";
+                winCount = 0;
             } else if ((userSelection == 0 && comSelection == 2) ||
                     (userSelection == 1 && comSelection == 0) ||
                     (userSelection == 2 && comSelection == 1)) {
