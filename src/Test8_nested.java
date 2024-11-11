@@ -36,7 +36,10 @@ public class Test8_nested {
             // N값 반복
             for (int j = 0; j < N; j++) {
                 // * 출력
-
+                if (i == j) {
+                    System.out.print(" ");
+                    continue;
+                }
                 System.out.print("*");
             }
             System.out.println();
