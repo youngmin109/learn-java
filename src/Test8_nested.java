@@ -88,7 +88,7 @@ public class Test8_nested {
 
         for (int i = 0; i < (int)(inputRow/2); i++) {
             System.out.print("*");
-            if (i == im) {
+            if (i == i) {
                 System.out.println();
             }
         }

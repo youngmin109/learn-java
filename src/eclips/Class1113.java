@@ -1,4 +1,4 @@
-package MyFristJava;
+package eclips;
 
 import java.util.Scanner;
 
