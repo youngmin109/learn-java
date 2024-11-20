@@ -8,11 +8,11 @@ public class MidExam {
 
         // 연산자 배열 생성
         char[] items = {'+', '-', '*'};
-        char seletedItem = 0;
+        
         // 배열 생성
         int[] randArrays = new int[3];
         // 변수 초기화
-        int gameScore = 0, gameRound = 1, itemPoint = 0;
+        int gameScore = 0, gameRound = 1;
 
         // 게임 시작
         while (true) {
@@ -28,65 +28,63 @@ public class MidExam {
 
             // 점수 계산
             int comboPoint = 0; // 매번 초기화
+            char selectedItem = 0;
 
             // 점수 계산
             for (int i = 0; i < randArrays.length - 1; i++) {
                 if (randArrays[i] == randArrays[i + 1]) {
                     comboPoint++;
                     // 연속된 문자 종류 저장
-                    seletedItem = items[i];
+                    selectedItem = items[randArrays[i]];
                 }
             }
+
+            int itemPoint = 0;
             // 연속된 연산자가 두 개일 경우
             if (comboPoint == 1) {
-                switch (seletedItem) {
+                switch (selectedItem) {
                     case '+':
                         itemPoint = 1;
-                        gameScore += itemPoint;
                         break;
                     case '-':
                         itemPoint = -1;
-                        gameScore += itemPoint;
                         break;
                     case '*':
                         itemPoint = 2;
-                        gameScore += itemPoint;
                         break;
                 }
             }
             // 연속된 연산자가 세 개일 경우
             else if (comboPoint == 2) {
-                switch (seletedItem) {
+                switch (selectedItem) {
                     case '+':
                         itemPoint = 3;
-                        gameScore += itemPoint;
                         break;
                     case '-':
                         itemPoint = -3;
-                        gameScore += itemPoint;
                         break;
                     case '*':
                         itemPoint = 5;
-                        gameScore += itemPoint;
                         break;
                 }
             }
+            gameScore += itemPoint;
 
             // 항목 출력
             System.out.println("-------------------------");
             for (int randValue : randArrays)
                 System.out.print("\t" + items[randValue] + "\t:");
             System.out.println("\n------------------------");
-            System.out.println(seletedItem + (comboPoint + 1) +" combo - 보너스 점수 " + itemPoint + "획득!");
+            System.out.println(selectedItem + (comboPoint + 1) +" combo - 보너스 점수 " + itemPoint + "획득!");
             System.out.println("현재 점수 " + gameScore);
 
             // 게임 종료 조건
             // 점수가 5 이상이면 "승리"
-            if (gameScore >= 5) {
+            if (gameScore >= 7) {
                 System.out.println("승리");
                 break;
                 // 점수가 -5 이하이면 "패배"
-            } else if (gameScore <= -5) {
+            } else if (gameScore <= -7) {
                 System.out.println("패배");
                 break;
             }
