@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/Test8_nested-WIN-6ELOJ4GT9DR.java" />
+      <file url="file://$PROJECT_DIR$/eclips/Class1113.java" />
+      <file url="file://$PROJECT_DIR$/eclips/Test5_review.java" />
+    </excludeFromCompile>
+  </component>
+</project>

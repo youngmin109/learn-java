@@ -87,14 +87,16 @@ public class Class1113 {
 			}
 
 			// 값에 따른 출력
-			switch (choice) {
-			// 1번 선택 시 1번 프로그램 실행
-			case 1 -> printDiagonalMatrix(rows, cols, true);
-			// 2번 선택 시 2번 프로그램 실행
-			case 2 -> printDiagonalMatrix(rows, cols, true);
-			// 3번 선택 시 3번 프로그램 실행
-			case 3 -> printDiagonalMatrix(rows, cols, false);
-			};
+//			switch (choice) {
+//			// 1번 선택 시 1번 프로그램 실행
+//			case 1 -> printDiagonalMatrix(rows, cols, true);
+//			// 2번 선택 시 2번 프로그램 실행
+//			case 2 -> printDiagonalMatrix(rows, cols, true);
+//			// 3번 선택 시 3번 프로그램 실행
+//			case 3 -> printDiagonalMatrix(rows, cols, false);
+//
+//
+//			};
 			
 			count++; // 게임카운트 ++
 		}

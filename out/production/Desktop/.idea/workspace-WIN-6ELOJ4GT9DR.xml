@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class1105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java200/Chap04/J4_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +51,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Class1105.executor": "Run",
@@ -60,6 +68,21 @@
     "애플리케이션.Test7_kaibaipo.executor": "Run"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Desktop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Desktop" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +101,13 @@
       <updated>1730708448494</updated>
       <workItem from="1730708449752" duration="10958000" />
       <workItem from="1730735481327" duration="2339000" />
-      <workItem from="1730768653603" duration="4060000" />
+      <workItem from="1730768653603" duration="9209000" />
+      <workItem from="1730895200767" duration="836000" />
+      <workItem from="1731224829240" duration="24000" />
+      <workItem from="1731224864265" duration="27000" />
+      <workItem from="1731224906485" duration="12000" />
+      <workItem from="1731235169883" duration="541000" />
+      <workItem from="1731235717687" duration="101000" />
     </task>
     <servers />
   </component>
