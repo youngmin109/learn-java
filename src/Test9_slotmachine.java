@@ -71,15 +71,16 @@ public class Test9_slotmachine {
                         }
                     }
                 }
-                score += bonusPoint;
             }
+            score += bonusPoint;
             System.out.println("Group Scores: " + bonusPoint);
             System.out.println("Total Score: " + score);
+
             // 종료 조건
-            if (bonusPoint >= 5) {
+            if (score >= 5) {
                 System.out.println("게임 승리");
                 break;
-            } else if (bonusPoint <= -5) {
+            } else if (score <= -5) {
                 System.out.println("게임 패배");
                 break;
             } roundCount++;
