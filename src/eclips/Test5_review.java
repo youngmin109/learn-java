@@ -1,4 +1,4 @@
-package MyFristJava;
+package src.eclips;
 import java.util.Scanner;
 
 public class Test5_review {
@@ -14,7 +14,6 @@ public class Test5_review {
 		
 		// 생성된 1차원 배열에 사용자로부터 값을 입력 받아 배열에 순차적으로 저장
         // 배열에 값 할당
-		int[] bar = new int[N];
 		
 	}
 }

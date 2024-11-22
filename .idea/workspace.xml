@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Java200/Chap04/J4_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java200/Chap06/J6_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desktop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java200/out/production/Java200/Java200/Chap04/J4_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace-WIN-6ELOJ4GT9DR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace-WIN-6ELOJ4GT9DR.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/J1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/Level3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test6_random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test7_kaibaipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/Class1105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test8_nested-WIN-6ELOJ4GT9DR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test8Nested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eclips/Class1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/eclips/Class1113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eclips/Test5_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eclips/Test5_review.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +78,12 @@
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Class1105.executor": "Run",
+    "애플리케이션.Class1113.executor": "Run",
+    "애플리케이션.J6_7.executor": "Run",
+    "애플리케이션.Test5_review.executor": "Run",
     "애플리케이션.Test7.executor": "Run",
-    "애플리케이션.Test7_kaibaipo.executor": "Run"
+    "애플리케이션.Test7_kaibaipo.executor": "Run",
+    "애플리케이션.test8Nested.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
@@ -108,6 +126,7 @@
       <workItem from="1731224906485" duration="12000" />
       <workItem from="1731235169883" duration="541000" />
       <workItem from="1731235717687" duration="101000" />
+      <workItem from="1732108662458" duration="966000" />
     </task>
     <servers />
   </component>
