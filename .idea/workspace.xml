@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Java200/Chap06/J6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class1128.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace-WIN-6ELOJ4GT9DR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace-WIN-6ELOJ4GT9DR.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/J1_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/Level3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test6_random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test7_kaibaipo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/Class1105.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test8_nested-WIN-6ELOJ4GT9DR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test8Nested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eclips/Class1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/eclips/Class1113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eclips/Test5_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eclips/Test5_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test10_studentScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test10_studentScore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,47 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Class1105.executor": "Run",
-    "애플리케이션.Class1113.executor": "Run",
-    "애플리케이션.J6_7.executor": "Run",
-    "애플리케이션.Test5_review.executor": "Run",
-    "애플리케이션.Test7.executor": "Run",
-    "애플리케이션.Test7_kaibaipo.executor": "Run",
-    "애플리케이션.test8Nested.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Desktop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Desktop" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -127,6 +96,7 @@
       <workItem from="1731235169883" duration="541000" />
       <workItem from="1731235717687" duration="101000" />
       <workItem from="1732108662458" duration="966000" />
+      <workItem from="1732780072693" duration="257000" />
     </task>
     <servers />
   </component>

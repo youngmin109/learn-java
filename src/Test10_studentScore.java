@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 // 2차원 배열 활용 학생 성적 계산기
@@ -6,12 +8,18 @@ public class Test10_studentScore {
     // 전체 학생 목록 출력
 
     // 학생목록 출력
-    static void prtMatrix(float[][] argMatrix) {
+    static void prtMatrix(float[][] argMatrix, int argNumOfStd) {
+        // 학생 정보 없을 시
+        if (argNumOfStd == 0) {
+            System.out.println("입력된 학생 정보가 없습니다.");
+            return;
+        }
+
         // 목록 배열 생성
-        String bar[] = {"학번: ", " 국어: ", " 영어: ", " 수학: ", " 합계: ", " 평균: "};
+        String title[] = {"학번: ", " 국어: ", " 영어: ", " 수학: ", " 합계: ", " 평균: "};
         for (int i = 0; i < argMatrix.length; i++) {
             for (int j = 0; j < argMatrix[i].length; j++) {
-                System.out.print(bar[j]);
+                System.out.print(title[j]);
                 System.out.print(argMatrix[i][j]);
             }
             System.out.println();
@@ -22,12 +30,14 @@ public class Test10_studentScore {
         Scanner sc = new Scanner(System.in);
 
         // 학생 수, 목록 상수 선언
-        final int studentCol = 3;
-        final int dataRow = 6;
+        final int NUM_OF_STUDENTS = 3;
+        final int NUM_OF_FIELDS = 6;
         int inputValue = 0;
+        int numOfStudents = 0;
 
         // 2차원 배열의 초기선언
-        float studentArray[][] = new float[studentCol][dataRow];
+        float studentArray[][] = new float[NUM_OF_STUDENTS][NUM_OF_FIELDS];
+
         // 메뉴 상수 선언
         final String MENU = """
                 1. 학생 성적 입력
@@ -48,63 +58,79 @@ public class Test10_studentScore {
             switch (inputValue) {
                 // case 1 학생 성적 입력
                 case 1:
-                    System.out.print("학번 입력: ");
-                    int studentNumber = sc.nextInt();
-                    System.out.print("국어 성적: ");
-                    float language = sc.nextFloat();
-                    System.out.print("영어 성적: ");
-                    float english = sc.nextFloat();
-                    System.out.print("수학 성적: ");
-                    float math = sc.nextFloat();
-
-                    float sum = language + english + math;
-                    float average = sum / studentCol;
-
                     // 배열에 저장
-                    studentArray[studentNumber - 1][0] = studentNumber;
-                    studentArray[studentNumber - 1][1] = language;
-                    studentArray[studentNumber - 1][2] = english;
-                    studentArray[studentNumber - 1][3] = math;
-                    studentArray[studentNumber - 1][4] = sum;
-                    studentArray[studentNumber - 1][5] = average;
+                    System.out.print("학번 입력: ");
+                    studentArray[numOfStudents][0] = sc.nextInt();
+
+                    System.out.print("국어 성적: ");
+                    studentArray[numOfStudents][1] = sc.nextFloat();
+
+                    System.out.print("영어 성적: ");
+                    studentArray[numOfStudents][2] = sc.nextFloat();
+
+                    System.out.print("수학 성적: ");
+                    studentArray[numOfStudents][3] = sc.nextFloat();
+
+                    studentArray[numOfStudents][4] = studentArray[numOfStudents][1] +
+                            studentArray[numOfStudents][2] + studentArray[numOfStudents][3];
+                    studentArray[numOfStudents][5] = studentArray[numOfStudents][4] / NUM_OF_STUDENTS;
+
+                    numOfStudents++;
                     break;
 
                 // case 2 입력된 학생 목록 출력
                 case 2:
                     System.out.println("학생목록");
-                    prtMatrix(studentArray);
+                    prtMatrix(studentArray, numOfStudents);
                     break;
 
                 // case 3 학생 삭제하기
                 case 3:
-                    prtMatrix(studentArray);
-                    int schoolNum = 0;
+                    prtMatrix(studentArray, numOfStudents);
+                    int deleteSchoolNum = 0;
                     System.out.println("삭제할 학생의 학번을 입력하세요 (-1: 이전 메뉴로)");
 
                     // 재입력 요구
                     while (true) {
-                        schoolNum = sc.nextInt();
-                        if (0 < schoolNum && schoolNum <= studentCol + 1) {
+                        deleteSchoolNum = sc.nextInt();
+                        if (0 < deleteSchoolNum && deleteSchoolNum <= NUM_OF_STUDENTS) {
                             break;
                         }
                         System.out.print("해당 학번이 존재하지 않습니다. 다시 입력해주세요.");
                     }
-
-                    // 해당 학번 삭제
-                    for (; schoolNum < studentArray.length - 1; schoolNum++) {
-                        studentArray[schoolNum - 1] = studentArray[schoolNum];
+                    // 삭제하기 위한 배열 선언
+                    int totalRows = studentArray.length; // 행렬의 행 개수 저장
+                    for (int i = deleteSchoolNum; i < totalRows; i++) {
+                        studentArray[i - 1] = studentArray[i];
                     }
-                    studentArray[studentArray.length - 1] = null;
-                    prtMatrix(studentArray);
-                    break;
+                    // 마지막 행을 0으로 초기화
+                    for (int j = 0; j < studentArray[totalRows - 1].length; j++) {
+                        studentArray[totalRows - 1][j] = 0;
+                    }
 
+//                    // 삭제하기 위한 배열 선언
+//                    int totalRows = studentArray.length; // 행렬의 행 개수 저장
+//
+//                    // 해당 학번 삭제
+//                    for (int i = deleteSchoolNum; i < totalRows; i++) {
+//                        for (int j = 0; j < studentArray[i].length; j++) {
+//                            studentArray[i][j] = studentArray[i + 1][j];
+//                        }
+//                    }
+//
+//                    // 마지막 행을 0으로 초기화
+//                    for (int j = 0; j < studentArray[totalRows - 1].length; j++) {
+//                        studentArray[totalRows - 1][j] = 0;
+//                    }
+                    // numOfStudents--;
+                    prtMatrix(studentArray, numOfStudents);
+                    break;
                 // case 4 종료
                 case 4:
                     System.out.print("프로그램을 종료합니다.");
                     break;
                 default:
                     System.out.println("잘못된 입력");
-                break;
             }
         }
     }
