@@ -15,16 +15,20 @@ public class Test10_studentScore {
             return;
         }
 
-        // 목록 배열 생성
-        String title[] = {"학번: ", " 국어: ", " 영어: ", " 수학: ", " 합계: ", " 평균: "};
-        for (int i = 0; i < argMatrix.length; i++) {
-            for (int j = 0; j < argMatrix[i].length; j++) {
-                System.out.print(title[j]);
-                System.out.print(argMatrix[i][j]);
-            }
-            System.out.println();
-        }
+        // 목록 배열 생성 (제목은 한 번씩만 생성)
+        String[] title = {"학번", "국어", "영어", "수학", "합계", "평균"};
+    for (String t : title) {
+        System.out.print(t + "\t");
     }
+    System.out.println();
+
+    for (int i = 0; i < argNumOfStd; i++) {
+        for (int j = 0; j < argMatrix[i].length; j++) {
+            System.out.print(argMatrix[i][j] + "\t");
+        }
+        System.out.println();
+    }
+}
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -86,45 +90,55 @@ public class Test10_studentScore {
 
                 // case 3 학생 삭제하기
                 case 3:
-                    prtMatrix(studentArray, numOfStudents);
-                    int deleteSchoolNum = 0;
-                    System.out.println("삭제할 학생의 학번을 입력하세요 (-1: 이전 메뉴로)");
+                    // 학생 수 0명
+                    if (numOfStudents == 0) {
+                        System.out.println("삭제할 학생 정보가 없습니다.");
+                        break;
+                    }
 
-                    // 재입력 요구
-                    while (true) {
-                        deleteSchoolNum = sc.nextInt();
-                        if (0 < deleteSchoolNum && deleteSchoolNum <= NUM_OF_STUDENTS) {
+                    prtMatrix(studentArray, numOfStudents);
+                    System.out.println("삭제할 학생의 학번을 입력하세요 (-1: 이전 메뉴로)");
+                    int deleteId = sc.nextInt();
+                    
+                    if (deleteId == -1) break;
+
+                    // 학번 검색
+                    int deletIndex = -1;
+                    for (int i = 0; i < numOfStudents; i++) {
+                        if (studentArray[i][0] == deleteId) {
+                            deletIndex = i;
                             break;
                         }
-                        System.out.print("해당 학번이 존재하지 않습니다. 다시 입력해주세요.");
-                    }
-                    // 삭제하기 위한 배열 선언
-                    int totalRows = studentArray.length; // 행렬의 행 개수 저장
-                    for (int i = deleteSchoolNum; i < totalRows; i++) {
-                        studentArray[i - 1] = studentArray[i];
-                    }
-                    // 마지막 행을 0으로 초기화
-                    for (int j = 0; j < studentArray[totalRows - 1].length; j++) {
-                        studentArray[totalRows - 1][j] = 0;
                     }
 
-//                    // 삭제하기 위한 배열 선언
-//                    int totalRows = studentArray.length; // 행렬의 행 개수 저장
-//
-//                    // 해당 학번 삭제
-//                    for (int i = deleteSchoolNum; i < totalRows; i++) {
-//                        for (int j = 0; j < studentArray[i].length; j++) {
-//                            studentArray[i][j] = studentArray[i + 1][j];
-//                        }
-//                    }
-//
-//                    // 마지막 행을 0으로 초기화
-//                    for (int j = 0; j < studentArray[totalRows - 1].length; j++) {
-//                        studentArray[totalRows - 1][j] = 0;
-//                    }
-                    // numOfStudents--;
+                    // 해당 학번이 없을 경우
+                    if (deletIndex == -1) {
+                        System.out.println("해당 학번이 존재하지 않습니다.");
+                        break;
+                    }
+                    
+                    // 배열 갱신
+                    for (int i = deletIndex; i < numOfStudents - 1; i++){
+                        studentArray[i] = studentArray[i + 1];
+                    }
+                    numOfStudents--; // 유효 학생 수 감소
+                    System.out.println("삭제 후 학생 목록");
                     prtMatrix(studentArray, numOfStudents);
                     break;
+
+                    // // 삭제하기 위한 배열 선언
+                    // int totalRows = studentArray.length; // 행렬의 행 개수 저장
+                    // for (int i = deleteId; i < totalRows; i++) {
+                    //     studentArray[i - 1] = studentArray[i];
+                    // }
+                    // // 마지막 행을 0으로 초기화
+                    // for (int j = 0; j < studentArray[totalRows - 1].length; j++) {
+                    //     studentArray[totalRows - 1][j] = 0;
+                    // }
+
+         
+
+    
                 // case 4 종료
                 case 4:
                     System.out.print("프로그램을 종료합니다.");
