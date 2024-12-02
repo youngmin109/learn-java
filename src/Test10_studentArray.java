@@ -3,7 +3,7 @@ package src;
 import java.util.Scanner;
 
 // 2차원 배열 활용 학생 성적 계산기
-public class Test10_studentScore {
+public class Test10_studentArray {
 
     // 전체 학생 목록 출력
 
