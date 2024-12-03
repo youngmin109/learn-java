@@ -77,12 +77,12 @@ public class Test10_studentArray2 {
         int numStudents = 0;
 
         final String MENU = """
-                -----------------------
+                --------------------
                 1. 학생 성적 입력
                 2. 학생 목록 출력
                 3. 학생 삭제
                 4. 종료
-                -----------------------
+                --------------------
                 메뉴를 선택하세요:
                 """;
         float[][] studentMatrix = new float[MAX_STUDENTS][NUM_FIELDS];
@@ -109,6 +109,9 @@ public class Test10_studentArray2 {
 
             switch (menuChoice) {
                 case 1:
+                    if (numStudents >= 3) {
+                        // 배열 2배 확장
+                    }
                     result = addStudentToMatrix(studentMatrix, numStudents, fieldTitles);
                     if (result > 0) {
                         numStudents = result;
@@ -123,7 +126,7 @@ public class Test10_studentArray2 {
 
                 case 3: // 학생 삭제
                     printMatrix(studentMatrix, numStudents, fieldTitles);
-                    while(true) {
+                    while (true) {
                         System.out.print("삭제할 학생의 학번을 입력하세요");
                         int studentId = sc.nextInt();
                         result = deleteStudentFromMatrix(studentMatrix, studentId, numStudents);
@@ -140,7 +143,6 @@ public class Test10_studentArray2 {
                     exit(-1);
             }
         }
-
     }
 }
 
