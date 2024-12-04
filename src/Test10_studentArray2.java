@@ -25,21 +25,57 @@ public class Test10_studentArray2 {
     static int addStudentToMatrix(float[][] matrix, int numStudents, String[] fieldTitles) {
         Scanner sc = new Scanner(System.in);
 
-        if (numStudents >= matrix.length) {
-            System.out.println("Matrix 입력 범위 초과, Matrix를 확장 해주세요");
-            return -1;
-        }
-
         for (int i = 0; i < matrix[numStudents].length - 2; i++) {
             System.out.println(fieldTitles[i] + "을 입력하세요");
-            matrix[numStudents][i] = sc.nextFloat();
-        }
 
+            // 중복 학번 검증
+            String choiceYq = "";
+            matrix[numStudents][i] = sc.nextFloat();
+            for (int j = 0; j < numStudents; j++) {
+                // 중복된 학번이 있을 시
+                if ((int) matrix[j][0] == matrix[numStudents][0]) {
+                    System.out.println("중복된 입력이 있습니다.");
+                    System.out.print("덮어쓰기를 희망합니까? (Y: 덮어쓰기 진행, q: 메뉴로 돌아가기):");
+                    choiceYq = sc.next();
+
+                    // q 입력 시 메뉴로 Back
+                    if (choiceYq.equals("q")) {
+                        return numStudents;
+                    } else if (choiceYq.equals("Y")) {
+                        coverStudentId(matrix, numStudents, fieldTitles);
+                        System.out.println("덮어쓰기가 완료되었습니다.");
+                        return numStudents;
+                    }
+                }
+            }
+        }
         // 합계 및 평균 계산
         matrix[numStudents][4] = matrix[numStudents][1] + matrix[numStudents][2] + matrix[numStudents][3];
         matrix[numStudents][5] = matrix[numStudents][4] / 3.0f;
 
         return ++numStudents;
+    }
+
+    // 덮어쓰기 희망 시
+    static void coverStudentId(float[][] matrix, int numStudents, String[] fieldTitles) {
+        Scanner sc = new Scanner(System.in);
+
+        // 중복값 검사
+        int duplicateId = -1;
+        for (int i = 0; i < numStudents; i++) {
+            if (matrix[i][0] == matrix[numStudents][0]) {
+                duplicateId = i;
+            }
+        }
+
+        // 중복된 학번 인덱스에 덮어쓰기
+        for (int i = 1; i < matrix[numStudents].length - 2; i++) {
+            System.out.println(fieldTitles[i] + "을 입력하세요");
+            matrix[duplicateId][i] = sc.nextFloat();
+            // 합계 및 평균 계산
+            matrix[duplicateId][4] = matrix[duplicateId][1] + matrix[duplicateId][2] + matrix[duplicateId][3];
+            matrix[duplicateId][5] = matrix[duplicateId][4] / 3.0f;
+        }
     }
 
     // 학생 삭제
@@ -109,9 +145,21 @@ public class Test10_studentArray2 {
 
             switch (menuChoice) {
                 case 1:
-                    if (numStudents >= 3) {
-                        // 배열 2배 확장
+                    if (numStudents >= studentMatrix.length) {
+                        // 2배로 확장된 배열 생성
+                        float[][] expandArray = new float[numStudents * 2][fieldTitles.length];
+
+                        // 기존배열을 복사
+                        for (int i = 0; i < numStudents; i++) {
+                            for (int j = 0; j < fieldTitles.length; j++) {
+                                expandArray[i][j] = studentMatrix[i][j];
+                            }
+                        }
+                        // 기존배열 확장된 배열로 주소값 변경
+                        studentMatrix = expandArray;
+                        System.out.println("배열이 확장 되었습니다.");
                     }
+
                     result = addStudentToMatrix(studentMatrix, numStudents, fieldTitles);
                     if (result > 0) {
                         numStudents = result;
@@ -145,5 +193,4 @@ public class Test10_studentArray2 {
         }
     }
 }
-
 
