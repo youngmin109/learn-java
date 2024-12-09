@@ -2,34 +2,66 @@ import java.util.Scanner;
 
 public class Test11_bingo {
 
-    static int[][][] matrixCreat(int N, int startValue, int endValue, int M) {
+    // 1 -> 매트릭스 생성 메서드
+    static int[][][] creatMatrix(int N, int startValue, int endValue, int M) {
 
         // 먼저 Tensor 배열 생성
         int[][][] tensorMatrix = new int[M][N][N];
 
         // 랜덤 값 생성
         int randValue = 0;
+
+        // 중복값 검사 변수 선언
+        int matrixNum = 0;
+
         // M수 만큼 반복 하는 중첩 for문 작성
         // M 개수 (빙고판 개수)
         for (int num = 0; num < tensorMatrix.length; num++) {
             for (int i = 0; i < tensorMatrix[num].length; i++) {
                 for (int j = 0; j < tensorMatrix[num][i].length; j++) {
-                    // 중복값 검사
-                    randValue = (int) (Math.random() * (endValue - startValue + 1)) + startValue;
+                    // 중복값 검사 메서드
+                    while (true) {
+                        randValue = (int) (Math.random() * (endValue - startValue + 1)) + startValue;
+                        if (!checkDuplicate(tensorMatrix, randValue, matrixNum)) {
+                            break;
+                        }
+                    }
                     tensorMatrix[num][i][j] = randValue;
                 }
             }
+            matrixNum++;
         }
-
-//        int[] randArrays = {};
-//        for (int i = 0; i < (N * N); i++) {
-//            randValue = (int) (Math.random() * (endValue - startValue + 1)) + startValue;
-//            randArrays[i] = randValue;
-//        }
         return tensorMatrix;
     }
 
+    // 1-1 랜덤 값 중복 테스트
+    static boolean checkDuplicate(int[][][] matrix, int value, int matrixNum) {
+        // 중복 값 있을 시 -1 return
+        for (int num = matrixNum; num < matrix.length; num++) {
+            for (int i = 0; i < matrix[num].length; i++) {
+                for (int j = 0; j < matrix[num][i].length; j++) {
+                    if (matrix[num][i][j] == value) {
+                        return true;
+                    }
+                }
+            }
+        } // 중복 값 없을 시 0 return
+        return false;
+    }
 
+    // 2 -> 숫자별 발생 빈도 메서드
+    static int[] countFrequencies(int[][][] matrix, int countArray[], int valueN) {
+        for (int num = 0; num < matrix.length; num++) {
+            for (int i = 0; i < matrix[num].length; i++) {
+                for (int j = 0; j < matrix[num][i].length; j++) {
+                    countArray[Math.abs(valueN - matrix[num][i][j])] += 1;
+                }
+            }
+        }
+        return countArray;
+    }
+
+    // 메인 메서드
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -39,8 +71,7 @@ public class Test11_bingo {
                 2. 숫자별 발생 빈도 분석
                 3. 빙고판 출력
                 4. 종료
-                메뉴 선택:
-                """;
+                메뉴 선택:""";
         int inputValue = 0;
 
         // 빙고 사이즈 ,시작값, 종료값, 빙고 매트릭스 수
@@ -99,12 +130,29 @@ public class Test11_bingo {
                     }
 
                     // 중복되지 않은 숫자(시작 값 ~ 종료 값)으로 N 개의 빙고판 생성(Tensor)
-                    bingoMatrix = matrixCreat(bingoSize, randNum_start, randNum_end, bingoNum);
+                    bingoMatrix = creatMatrix(bingoSize, randNum_start, randNum_end, bingoNum);
                     break;
 
                 case 2:
                     // 2: 빈도 분석
-                    // 숫자 : N회 (~%) 10단위 스케일링 히스토 그램 시각화
+                    // 숫자 : N회 (~%) 10단위 스케일링 히스토그램 시각화
+                    System.out.println("==== 숫자별 발생 빈도 ====");
+                    // 배열 생성
+                    int[] bar = new int[randNum_end - randNum_start + 1];
+                    // Shallow Copy
+                    int[] countArray = countFrequencies(bingoMatrix, bar, randNum_start);
+                    // 출력
+                    for (int i = 0; i < countArray.length; i++) {
+                        int frequency = countArray[i];
+                        double percentage = (frequency * 100.0) / (bingoSize * bingoSize * bingoNum);
+                        percentage = Math.round(percentage * 100) / 100.0;
+                        System.out.print((randNum_start + i) + ": " + frequency + "회 (" + percentage + "%)");
+                        for (int j = 0; j < frequency; j++) {
+                            System.out.print('*');
+                        }
+                        System.out.println();
+                    }
+
                     break;
 
                 case 3:
