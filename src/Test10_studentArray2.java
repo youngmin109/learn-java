@@ -147,11 +147,11 @@ public class Test10_studentArray2 {
                 case 1:
                     if (numStudents >= studentMatrix.length) {
                         // 2배로 확장된 배열 생성
-                        float[][] expandArray = new float[numStudents * 2][fieldTitles.length];
+                        float[][] expandArray = new float[studentMatrix.length * 2][fieldTitles.length];
 
                         // 기존배열을 복사
-                        for (int i = 0; i < numStudents; i++) {
-                            for (int j = 0; j < fieldTitles.length; j++) {
+                        for (int i = 0; i < studentMatrix.length; i++) {
+                            for (int j = 0; j < studentMatrix[i].length; j++) {
                                 expandArray[i][j] = studentMatrix[i][j];
                             }
                         }
