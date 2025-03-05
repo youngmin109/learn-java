@@ -13,7 +13,6 @@ class Car {
     }
 
 }
-
 // 실행 코드
 public class OOP_250305 {
     public static void main(String[] args) {
@@ -28,7 +27,11 @@ public class OOP_250305 {
 
         // car1은 stack에 저장된다.
         Car car1 = new Car();
-        car1.name = "hyundai";
+        Car car2 = new Car();
+
+        car2.name = "teslar";
+        car2.prtName();
+
         // JAVA는 object 클래스 안에서 상속을 한다.
         // . 연산자 옆에 이외의 값들은 상속을 받은 것
 
