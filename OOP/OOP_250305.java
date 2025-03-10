@@ -9,16 +9,15 @@ class Car {
 
     // Function -> Member method ( 멤버 메서드 )
     void prtName() {
-        System.out.println(name);
+        System.out.println("brand" + name);
     }
 
 }
 // 실행 코드
 public class OOP_250305 {
     public static void main(String[] args) {
-        // new;
-        // 복습
-        // 1.heap영역 즉, 프로그램이 종료되거나 참조를 하지 않을 때까지 생명주기
+        // new; 복습
+        // 1.heap영역,  생명주기: 프로그램이 종료되거나 참조를 하지 않을 때까지
         // 2.메모리 공간은 코드가 실행되면서 할당
 
         // 2개의 차이
@@ -29,11 +28,14 @@ public class OOP_250305 {
         Car car1 = new Car();
         Car car2 = new Car();
 
+        car1.name = "hyundai";
         car2.name = "teslar";
+
+        car1.prtName();
         car2.prtName();
 
-        // JAVA는 object 클래스 안에서 상속을 한다.
-        // . 연산자 옆에 이외의 값들은 상속을 받은 것
+        // 객체를 참조하는 변수를 통해, . 연산자를 사용하여 객체의 멤버에 접근할 수 있다.
+        // JAVA는 object 클래스 안에서 상속을 한다. 연산자 옆에 이외의 값들은 상속을 받은 것
 
     }
 }
