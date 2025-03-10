@@ -7,8 +7,8 @@ class Bar {
 
     // 생성자 : 이름이 클래스명과 동일, 반환형이 없다.
     Bar(String argName, int argAge) {
-        argName = name;
-        argAge = age;
+        name = argName;
+        age = argAge;
     }
 
     void printInfo() {
@@ -33,6 +33,10 @@ public class Constructor {
         // 1. Default Constructor 2. Parameter Constructor
         // 1 - 생성자 안의 매개변수가 0개
         // 2 - 1개 이상의 매개변수
-        // * JAVA에서는 생성자가 없으면 Default 값을 자동으로 집어 넣는다.
+        // * JAVA에서는 생성자가 없으면 디폴트 생성자를 컴파일 전에 추가한다.
+
+        // 객체를 생성 할 때 한개 이상의 생성자가 있어야하고,
+        //
+        // 클래스 안에 있는 생성자로 호출한다.
     }
 }
