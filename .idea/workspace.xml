@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="OOP update">
-      <change afterPath="$PROJECT_DIR$/OOP/Jungsuck_2.java" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/OOP/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OverLoading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Constructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
     "애플리케이션.Jungsuck_2.executor": "Run",
     "애플리케이션.OOP_250305.executor": "Run",
     "애플리케이션.OOP_250310.executor": "Run",
+    "애플리케이션.OverLoading.executor": "Run",
     "애플리케이션.Test5_review.executor": "Run",
     "애플리케이션.Test7.executor": "Run",
     "애플리케이션.Test7_kaibaipo.executor": "Run",
@@ -106,6 +107,7 @@
       <workItem from="1741159389859" duration="5455000" />
       <workItem from="1741359437532" duration="2417000" />
       <workItem from="1741583313214" duration="7643000" />
+      <workItem from="1741757706935" duration="5523000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741588345153</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1741616209898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741616209898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="OOP update" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP update" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
