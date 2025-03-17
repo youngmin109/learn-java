@@ -2,7 +2,7 @@ package OOP;
 
 // 지금부터 클래스를 정의
 // 클래스 이름은 항상 대문자로 시작!
-class Car {
+class Car3 {
     // Data + Function
     // Data -> Member variable ( 멤버 변수 )
     String name;
@@ -25,8 +25,8 @@ public class OOP_250305 {
         int bar[] = new int[5];
 
         // car1은 stack에 저장된다.
-        Car car1 = new Car();
-        Car car2 = new Car();
+        Car3 car1 = new Car3();
+        Car3 car2 = new Car3();
 
         car1.name = "hyundai";
         car2.name = "teslar";

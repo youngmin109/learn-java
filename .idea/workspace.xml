@@ -5,8 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/OOP/Jungsuck_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP_250317.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Jungsuck_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP_250305.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP_250305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Class1105.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Class1105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Class1108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Class1108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Class1111.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Class1111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap01/J1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap01/J1_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap02/J2_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap02/J2_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap02/J2_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap02/J2_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap03/J3_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap03/J3_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap04/J4_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap06/J6_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Java200/Chap06/J6_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/JungQuiz/Level3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/JungQuiz/Level3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/MyFristJava/Class1112.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/MyFristJava/Class1112.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250305.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250305.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OverLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OverLoading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/Lab2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/Lab2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/Level3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam_gpt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/MidExam_gpt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/SrpReview3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/StudentArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/StudentArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/StudentScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/StudentScore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/hyochan_StudentArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/hyochan_StudentArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Review/slotMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Review/slotMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Studying/JungQuiz/level2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Studying/Review/Level2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Studying/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Studying/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test10_studentArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test10_studentArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test11_bingo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test11_bingo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test6_random.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test6_random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test7_kaibaipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test7_kaibaipo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test8_nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test8_nested.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Test9_slotmachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/Test9_slotmachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/TestReview/Test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/eclips/Class1113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/eclips/Class1113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/eclips/Review1113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/eclips/Review1113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/Test10_studentArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/src/Test10_studentArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/eclips/Test5_review.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/src/eclips/Test5_review.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/test8Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/src/test8Nested.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +98,9 @@
     &quot;accountId&quot;: &quot;bf379b2f-8e09-4390-b310-321005ab968a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -48,39 +109,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/바탕 화면/JAVA Study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Jungsuck_2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250305.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250310.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverLoading.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/바탕 화면/JAVA Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Class1105.executor": "Run",
+    "애플리케이션.Class1113.executor": "Run",
+    "애플리케이션.Constructor.executor": "Run",
+    "애플리케이션.J6_7.executor": "Run",
+    "애플리케이션.Jungsuck_2.executor": "Run",
+    "애플리케이션.OOP_250305.executor": "Run",
+    "애플리케이션.OOP_250310.executor": "Run",
+    "애플리케이션.OOP_250317.executor": "Run",
+    "애플리케이션.OverLoading.executor": "Run",
+    "애플리케이션.Test5_review.executor": "Run",
+    "애플리케이션.Test7.executor": "Run",
+    "애플리케이션.Test7_kaibaipo.executor": "Run",
+    "애플리케이션.test8Nested.executor": "Run"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.OOP_250317">
+    <configuration name="OOP_250317" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="MAIN_CLASS_NAME" value="OOP.OOP_250317" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이름이 지정되지 않았습니다" type="Remote" nameIsGenerated="true">
+      <module name="Desktop" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="애플리케이션.OOP_250317" />
+      <item itemvalue="원격 JVM 디버그.이름이 지정되지 않았습니다" />
+    </list>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,7 +206,8 @@
       <workItem from="1741583313214" duration="7643000" />
       <workItem from="1741757706935" duration="6427000" />
       <workItem from="1741875150047" duration="964000" />
-      <workItem from="1742190994811" duration="1608000" />
+      <workItem from="1742190994811" duration="3455000" />
+      <workItem from="1742213295781" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -204,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741876254800</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1742212183935</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742212183935</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
