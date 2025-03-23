@@ -24,6 +24,9 @@ This repository is a collection of code and concepts that I have learned while s
 
 **OOP 학습 정리 (OOP Study Notes)**  
 [Notion memo](https://www.notion.so/1-OOP-1adb6d9c51e280a1aa5df3af8baa0fb4?pvs=4)  
+- 클래스와 객체의 차이
+- 클래스의 구성요소
+- 캡슐화, 상속, 추상화
 
 
 **업데이트 예정 (Updates Coming Soon...)**  
