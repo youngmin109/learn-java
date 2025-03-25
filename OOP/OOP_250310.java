@@ -9,7 +9,7 @@ class Student {
     int sum;
     final int NUM_OF_SUBJECT = 3;
 
-    Student (int avgnum);
+
 
 
     int id;
