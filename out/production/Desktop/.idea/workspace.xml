@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/OOP/OOP_250317.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study Quiz">
+      <change afterPath="$PROJECT_DIR$/OOP/OOP_250326.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Jungsuck_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250305.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP_250305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250310.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250310.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250317.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250317.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,40 +58,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/OneDrive/바탕 화면/JAVA Study",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Class1105.executor": "Run",
-    "애플리케이션.Class1113.executor": "Run",
-    "애플리케이션.Constructor.executor": "Run",
-    "애플리케이션.J6_7.executor": "Run",
-    "애플리케이션.Jungsuck_2.executor": "Run",
-    "애플리케이션.OOP_250305.executor": "Run",
-    "애플리케이션.OOP_250310.executor": "Run",
-    "애플리케이션.OOP_250317.executor": "Run",
-    "애플리케이션.OverLoading.executor": "Run",
-    "애플리케이션.Test5_review.executor": "Run",
-    "애플리케이션.Test7.executor": "Run",
-    "애플리케이션.Test7_kaibaipo.executor": "Run",
-    "애플리케이션.test8Nested.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/바탕 화면/JAVA Study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Jungsuck_2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250305.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250310.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250317.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250323.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OverLoading.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="애플리케이션.OOP_250317">
     <configuration name="OOP_250317" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="23" />
@@ -152,6 +157,13 @@
       <workItem from="1741757706935" duration="6427000" />
       <workItem from="1741875150047" duration="964000" />
       <workItem from="1742190994811" duration="3455000" />
+      <workItem from="1742213295781" duration="370000" />
+      <workItem from="1742219679357" duration="61000" />
+      <workItem from="1742361922596" duration="5636000" />
+      <workItem from="1742718508869" duration="1800000" />
+      <workItem from="1742798748300" duration="5915000" />
+      <workItem from="1742900229116" duration="1181000" />
+      <workItem from="1742966140685" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -249,7 +261,47 @@
       <option name="project" value="LOCAL" />
       <updated>1742212183935</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1742213648932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742213648932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1742728901040</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742728901040</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1742728917325</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742728917325</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1742827621486</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742827621486</updated>
+    </task>
+    <task id="LOCAL-00017" summary="study Quiz">
+      <option name="closed" value="true" />
+      <created>1742901407882</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742901407882</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +322,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="OOP update" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="study Quiz" />
+    <option name="LAST_COMMIT_MESSAGE" value="study Quiz" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
