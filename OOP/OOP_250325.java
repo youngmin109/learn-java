@@ -1,5 +1,7 @@
 package OOP;
 
+// 이 경우는 자원을 같이 공유하는 것
+
 class ItemBox {
     int numOfBoxes;
     void push() {numOfBoxes++;}
@@ -19,8 +21,12 @@ public class OOP_250325 {
         Foo2 foo = new Foo2(box);
         Pos2 pos = new Pos2(box);
         foo.box.push();
+        System.out.println(box.numOfBoxes);
         foo.box.push();
+        System.out.println(box.numOfBoxes);
         pos.box.pop();
+        System.out.println(box.numOfBoxes);
         pos.box.pop();
+        System.out.println(box.numOfBoxes);
     }
 }
