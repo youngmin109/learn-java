@@ -19,10 +19,10 @@ This repository is a collection of code and concepts that I have learned while s
 
 ---
 
-#### 2025.03 ~ **Java OOP (Object-Oriented Programming)**
+#### 2025.03 ~ **Java oop (Object-Oriented Programming)**
 
 
-**OOP 학습 정리 (OOP Study Notes)**  
+**oop 학습 정리 (oop Study Notes)**  
 [Notion memo](https://www.notion.so/1-OOP-1adb6d9c51e280a1aa5df3af8baa0fb4?pvs=4)  
 - 클래스와 객체의 차이
 - 클래스의 구성요소

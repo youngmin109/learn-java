@@ -1,4 +1,4 @@
-package OOP;
+package oop;
 
 class Car2 {
     // 1) method area에 클래스 저장

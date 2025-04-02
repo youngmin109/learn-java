@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study">
-      <change afterPath="$PROJECT_DIR$/OOP/OOP_250327.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250325.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP_250325.java" afterDir="false" />
-    </list>
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +31,12 @@
     &quot;assignee&quot;: &quot;BaeTani3&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BaeTani3/JAVA.git&quot;,
-    &quot;accountId&quot;: &quot;bf379b2f-8e09-4390-b310-321005ab968a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/youngmin109/learn-java.git",
+    "accountId": "bf379b2f-8e09-4390-b310-321005ab968a"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,43 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/바탕 화면/JAVA Study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Jungsuck_2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250305.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250310.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250317.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250323.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250325.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OOP_250326.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverLoading.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/바탕 화면/learn-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Class1105.executor": "Run",
+    "애플리케이션.Class1113.executor": "Run",
+    "애플리케이션.Constructor.executor": "Run",
+    "애플리케이션.J6_7.executor": "Run",
+    "애플리케이션.Jungsuck_2.executor": "Run",
+    "애플리케이션.OOP_250305.executor": "Run",
+    "애플리케이션.OOP_250310.executor": "Run",
+    "애플리케이션.OOP_250317.executor": "Run",
+    "애플리케이션.OOP_250323.executor": "Run",
+    "애플리케이션.OOP_250325.executor": "Run",
+    "애플리케이션.OOP_250326.executor": "Run",
+    "애플리케이션.OverLoading.executor": "Run",
+    "애플리케이션.Test5_review.executor": "Run",
+    "애플리케이션.Test7.executor": "Run",
+    "애플리케이션.Test7_kaibaipo.executor": "Run",
+    "애플리케이션.test8Nested.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="애플리케이션.OOP_250317">
     <configuration name="OOP_250317" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="23" />
@@ -160,7 +156,8 @@
       <workItem from="1742798748300" duration="5915000" />
       <workItem from="1742900229116" duration="1181000" />
       <workItem from="1742966140685" duration="6146000" />
-      <workItem from="1742988412993" duration="2579000" />
+      <workItem from="1742988412993" duration="3192000" />
+      <workItem from="1743433047701" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -306,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742969749902</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="study">
+      <option name="closed" value="true" />
+      <created>1743002548683</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743002548683</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

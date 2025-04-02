@@ -1,4 +1,4 @@
-package OOP;
+package oop;
 
 // 지금부터 클래스를 정의
 // 클래스 이름은 항상 대문자로 시작!

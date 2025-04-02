@@ -1,4 +1,4 @@
-package OOP;
+package oop;
 
 class OverLoading {
     public static void main(String args[]) {

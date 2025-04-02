@@ -1,4 +1,4 @@
-package OOP;
+package oop;
 
 import java.util.Scanner;
 
@@ -93,6 +93,19 @@ class StdScoreMgr{
             }
         }
     }
+
+    void printStudents() {
+        System.out.println("===== 학생 성적 출력 =====");
+        for (int i =0; i < numOfStudents; i++) {
+            Student2 s = stdList[i];
+            System.out.printf("ID: %d, 이름: $s\n", s.id, s.name);
+            System.out.printf("국어: %d, 영어: %d, 수학: %d\n",
+                    s.getScoreKorean(), s.getScoreEnglish(), s.getScoreMath());
+            System.out.printf("합계: %d, 평균: %.2f\n",
+                    s.getSum(), s.getAvg());
+            System.out.println("-----------------------");
+        }
+    }
 }
 
 public class Student_manage {
@@ -104,6 +117,7 @@ public class Student_manage {
 
         StdScoreMgr stdMgr = new StdScoreMgr(stdNum);
         stdMgr.addStudent();
+        stdMgr.printStudents();
 
     }
 
