@@ -5,108 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study">
-      <change afterPath="$PROJECT_DIR$/oop/InheritanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/OOP_250402__Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/UML_250402.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/Jungsuck_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/oop/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Jungsuck_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Jungsuck_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Jungsuck_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Jungsuck_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Jungsuck_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Jungsuck_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250305.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250310.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250310.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250317.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250317.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250323.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250323.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250325.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250325.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250326.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250326.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250327.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250327.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OOP_250331.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OOP_250331.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/OverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/OverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Student_manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Student_manage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Bar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Bar3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Bar3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Car2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Car2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Car3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Car3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Foo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Foo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Foo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Foo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Foo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Foo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/HttpBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/HttpBuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/ItemBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/ItemBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/ItemBox3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/ItemBox3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Jungsuck_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Jungsuck_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Jungsuck_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Jungsuck_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Jungsuck_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Jungsuck_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/MyMath3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/MyMath3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250305.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250305.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250310.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250310.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250317.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250317.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250323.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250323.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250325.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250325.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250326.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250326.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250327.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250327.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OOP_250331.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OOP_250331.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/OverLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/OverLoading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Pos.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Pos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Pos2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Pos2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Pos3.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Pos3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Student1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/Tv.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/Tv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/hello1.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/hello1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/out/production/OOP/OOP/hello2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oop/out/production/OOP/OOP/hello2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Bar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Car2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Car3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/HttpBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/HttpBuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MyMath3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/MyMath3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250305.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250305.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250310.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250310.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250317.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250317.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250323.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250323.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250325.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250325.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250326.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250326.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250327.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250327.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OverLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/OverLoading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Student1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Tv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/Tv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/hello1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/hello1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/hello2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/hello2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/InheritanceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,47 +52,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/OneDrive/바탕 화면/learn-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Class1105.executor": "Run",
-    "애플리케이션.Class1113.executor": "Run",
-    "애플리케이션.Constructor.executor": "Run",
-    "애플리케이션.InheritanceTest.executor": "Run",
-    "애플리케이션.J6_7.executor": "Run",
-    "애플리케이션.Jungsuck_2.executor": "Run",
-    "애플리케이션.OOP_250305.executor": "Run",
-    "애플리케이션.OOP_250310.executor": "Run",
-    "애플리케이션.OOP_250317.executor": "Run",
-    "애플리케이션.OOP_250323.executor": "Run",
-    "애플리케이션.OOP_250325.executor": "Run",
-    "애플리케이션.OOP_250326.executor": "Run",
-    "애플리케이션.OOP_250402__Inheritance.executor": "Run",
-    "애플리케이션.OverLoading.executor": "Run",
-    "애플리케이션.Student_manage.executor": "Run",
-    "애플리케이션.Test5_review.executor": "Run",
-    "애플리케이션.Test7.executor": "Run",
-    "애플리케이션.Test7_kaibaipo.executor": "Run",
-    "애플리케이션.UML_250402.executor": "Run",
-    "애플리케이션.test8Nested.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/바탕 화면/learn-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.InheritanceTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Jungsuck_2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250305.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250310.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250317.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250323.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250325.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250326.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250402__Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OverLoading.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Student_manage.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.UML_250402.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="OOP_250317" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="23" />
@@ -265,7 +166,8 @@
       <workItem from="1742966140685" duration="6146000" />
       <workItem from="1742988412993" duration="3192000" />
       <workItem from="1743433047701" duration="2048000" />
-      <workItem from="1743569232621" duration="8581000" />
+      <workItem from="1743569232621" duration="9427000" />
+      <workItem from="1743776439617" duration="1183000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
