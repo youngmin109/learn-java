@@ -6,8 +6,7 @@ class Point {
 }
 
 //class Circle extends Point { // 상속
-//    int r;
-//}
+//    int r;}
 
 class Circle {
     Point p = new Point();
