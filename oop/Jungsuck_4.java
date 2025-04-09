@@ -16,7 +16,8 @@ class Point1 {
 
     Point1(int x, int y) {
 
-        // super() compiler
+
+        super(); //compiler
         this.x = x;
         this.y = y;
     }
