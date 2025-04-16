@@ -1,4 +1,4 @@
-package oop;
+package oop.study;
 
 class Point {
     int x;

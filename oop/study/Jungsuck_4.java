@@ -1,4 +1,4 @@
-package oop;
+package oop.study;
 // 매우 중요하니 메모리 구조를 그려보자!
 
 public class Jungsuck_4 {

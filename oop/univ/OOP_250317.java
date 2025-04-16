@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 class Car {
     static String brand;

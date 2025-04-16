@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 class ElectronicDevice // extends Object 자동으로 추가
 {

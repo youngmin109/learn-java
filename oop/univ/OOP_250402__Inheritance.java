@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 class Student4 {
     int id = 2;

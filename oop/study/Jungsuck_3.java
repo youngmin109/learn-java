@@ -1,4 +1,4 @@
-package oop;
+package oop.study;
 
 class Jungsuck_3 {
     public static void main(String args[]) {
@@ -25,7 +25,7 @@ class Jungsuck_3 {
     }
 }
 
-class Card {
+private class Card {
     String kind;
     int number;
     static int width = 100;

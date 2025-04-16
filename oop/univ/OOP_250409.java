@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 class A {
     int a = 1;

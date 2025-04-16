@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 // 이 경우는 자원을 같이 공유하는 것
 

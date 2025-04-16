@@ -1,4 +1,4 @@
-package oop;
+package oop.univ;
 
 class Student1 {
     String name; // 멤버 변수 - 객체의 속성을 정의

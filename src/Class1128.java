@@ -1,10 +1,13 @@
 package src;
 
 public class Class1128 {
-    public static void main(String[] args) {
+    public int num = 3;
+    protected int bar = 20;
+    int foo = 3;
 
+    public static void main(String[] args) {
         final int FRAME_NUM = 10000;
-        final int ITEM_NUM = 20;
+        int ITEM_NUM = 20;
 
         // 내가 사용하는 목적에 맞게 다차원 배열을 생성한다.
 
