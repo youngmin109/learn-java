@@ -5,11 +5,11 @@ class Jungsuck_3 {
         System.out.println("Card.width = " + Card.width);
         System.out.println("Card.height = " + Card.height);
 
-        Card c1 = new Card();
+        Card2 c1 = new Card2();
         c1.kind = "Heart";
         c1.number = 7;
 
-        Card c2 = new Card();
+        Card2 c2 = new Card2();
         c2.kind = "Spade";
         c2.number = 4;
 
@@ -25,7 +25,7 @@ class Jungsuck_3 {
     }
 }
 
-private class Card {
+class Card2 {
     String kind;
     int number;
     static int width = 100;
