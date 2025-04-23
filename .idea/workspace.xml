@@ -4,79 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/study/Slamdunk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/study/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250421.java" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study">
+      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250423.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/study/Jungsuck_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/study/Jungsuck_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/univ/OOP_250416.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/univ/OOP_250416.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/shelf/25__4__7___2_36__________.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/shelf/25__4__7__오후_2_36,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/AndroidPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Bar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Bar3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Car3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Desktop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/ElectronicDevice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Foo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/GscStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/HttpBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/IPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/InheritanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/ItemBox3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Jungsuck_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MechanicStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/MyMath3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250305.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250310.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250317.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250323.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250325.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250326.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250327.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250331.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250402__Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250407.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OOP_250409.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/OverLoading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Point1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Point3D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Pos3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/SmartPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/StdScoreMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Student_manage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/hello1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OOP/hello2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/src/Class1128.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/src/Class1128.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +91,7 @@
     "애플리케이션.OOP_250414.executor": "Run",
     "애플리케이션.OOP_250416.executor": "Run",
     "애플리케이션.OOP_250421.executor": "Run",
+    "애플리케이션.OOP_250423.executor": "Run",
     "애플리케이션.OverLoading.executor": "Run",
     "애플리케이션.Slamdunk.executor": "Run",
     "애플리케이션.Student_manage.executor": "Run",
@@ -257,7 +189,8 @@
       <workItem from="1744544931569" duration="941000" />
       <workItem from="1744607808428" duration="6887000" />
       <workItem from="1744781200131" duration="9029000" />
-      <workItem from="1745215654058" duration="5860000" />
+      <workItem from="1745215654058" duration="6140000" />
+      <workItem from="1745384924651" duration="3147000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -459,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744814451588</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="study">
+      <option name="closed" value="true" />
+      <created>1745238742784</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1745238742784</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,10 +422,10 @@
     <MESSAGE value="OOP update" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="study Quiz" />
-    <MESSAGE value="study" />
     <MESSAGE value="study1" />
     <MESSAGE value="study sunday" />
-    <option name="LAST_COMMIT_MESSAGE" value="study sunday" />
+    <MESSAGE value="study" />
+    <option name="LAST_COMMIT_MESSAGE" value="study" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
