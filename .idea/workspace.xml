@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study">
-      <change afterPath="$PROJECT_DIR$/oop/study/MiddleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/study/CastingTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CastingTest1.executor": "Run",
     "애플리케이션.Class1105.executor": "Run",
     "애플리케이션.Class1113.executor": "Run",
     "애플리케이션.Class1128.executor": "Run",
@@ -193,6 +193,7 @@
       <workItem from="1745215654058" duration="6140000" />
       <workItem from="1745384924651" duration="4354000" />
       <workItem from="1745588163212" duration="320000" />
+      <workItem from="1745740171187" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
