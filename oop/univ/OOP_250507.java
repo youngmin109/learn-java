@@ -16,6 +16,7 @@ class Boo {
     void level3() {
         // 예외를 처리하지 않고 그대로 던지므로 호출한 쪽으로 전달됨
         throw new RuntimeException("예외 발생 위치: level3()");
+        // 현재 발생한 에러가 어떤 에러인지 알기위해서 throw를 한다.
     }
 }
 

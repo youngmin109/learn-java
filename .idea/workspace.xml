@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="interface">
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250507.java" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="exception">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/study/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/study/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/univ/OOP_250507.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/univ/OOP_250507.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +199,7 @@
       <workItem from="1745804155317" duration="2872000" />
       <workItem from="1745992118337" duration="6298000" />
       <workItem from="1746596429644" duration="1344000" />
-      <workItem from="1747031725199" duration="306000" />
+      <workItem from="1747031725199" duration="2063000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -435,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746015583847</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="exception">
+      <option name="closed" value="true" />
+      <created>1747032085393</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747032085393</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +468,8 @@
     <MESSAGE value="study" />
     <MESSAGE value="CastingTest1" />
     <MESSAGE value="interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface" />
+    <MESSAGE value="exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
