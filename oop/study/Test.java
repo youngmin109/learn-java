@@ -1,21 +1,29 @@
 package oop.study;
 
-class Parent {
-    void greet() {
-        System.out.println("부모인사");
+class A { int value = 1; }
+class B extends A {
+    int value;
+    B(int value) {
+        this.value = value;
+    }
+}
+class C extends A { int value = 3; }
+class D extends B {
+    int value = 4;
+    D() {
+        super(3);
+    }
+    void prtValue() {
+        System.out.println(super.value);
+        System.out.println(value);
     }
 }
 
-class Child extends Parent {
-    @Override
-    void greet() {
-        super.greet();
-        System.out.println("자식만의 인사");
-    }
-}
 public class Test {
     public static void main(String[] args) {
-        Child t = new Child();
-        t.greet();
+        C c = new C();
+        D d = new D();
+
+        d.prtValue();
     }
 }
