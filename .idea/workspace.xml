@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="exception">
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250519.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/study/InterfaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/univ/OOP_250519.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/univ/OOP_250519.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,7 @@
     "애플리케이션.Class1128.executor": "Run",
     "애플리케이션.Constructor.executor": "Run",
     "애플리케이션.InheritanceTest.executor": "Run",
+    "애플리케이션.InterfaceTest.executor": "Run",
     "애플리케이션.J6_7.executor": "Run",
     "애플리케이션.Jungsuck_2.executor": "Run",
     "애플리케이션.Jungsuck_4.executor": "Run",
@@ -202,7 +204,8 @@
       <workItem from="1745992118337" duration="6298000" />
       <workItem from="1746596429644" duration="1344000" />
       <workItem from="1747031725199" duration="2740000" />
-      <workItem from="1747632164758" duration="2308000" />
+      <workItem from="1747632164758" duration="5812000" />
+      <workItem from="1748008681450" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -452,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747047608165</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="exception">
+      <option name="closed" value="true" />
+      <created>1747634570963</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634570963</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +498,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/oop/univ/OOP_250519.java</url>
-          <line>18</line>
+          <line>26</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
