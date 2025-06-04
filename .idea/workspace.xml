@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="NestedClass">
-      <change afterPath="$PROJECT_DIR$/oop/univ/GUI_InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250602.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/univ/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/univ/NotInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250604.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/univ/OOP_250602.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/univ/OOP_250602.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +81,13 @@
     "애플리케이션.Constructor.executor": "Run",
     "애플리케이션.GuiEvent.executor": "Run",
     "애플리케이션.InheritanceTest.executor": "Run",
+    "애플리케이션.InnerClass.executor": "Run",
     "애플리케이션.InterfaceTest.executor": "Run",
     "애플리케이션.J6_7.executor": "Run",
     "애플리케이션.Jungsuck_2.executor": "Run",
     "애플리케이션.Jungsuck_4.executor": "Run",
     "애플리케이션.MiddleTest.executor": "Run",
+    "애플리케이션.NotInnerClass.executor": "Run",
     "애플리케이션.OOP_250305.executor": "Run",
     "애플리케이션.OOP_250310.executor": "Run",
     "애플리케이션.OOP_250317.executor": "Run",
@@ -103,6 +107,7 @@
     "애플리케이션.OOP_250526.executor": "Run",
     "애플리케이션.OOP_250528.executor": "Run",
     "애플리케이션.OOP_250602.executor": "Run",
+    "애플리케이션.OOP_250604.executor": "Run",
     "애플리케이션.OverLoading.executor": "Run",
     "애플리케이션.Slamdunk.executor": "Run",
     "애플리케이션.Student_manage.executor": "Run",
@@ -212,7 +217,8 @@
       <workItem from="1748008681450" duration="1261000" />
       <workItem from="1748236055601" duration="8194000" />
       <workItem from="1748409579734" duration="6009000" />
-      <workItem from="1748842780259" duration="7152000" />
+      <workItem from="1748842780259" duration="10620000" />
+      <workItem from="1749013233455" duration="5010000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -494,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748415205794</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="NestedClass">
+      <option name="closed" value="true" />
+      <created>1748876610817</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1748876610817</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

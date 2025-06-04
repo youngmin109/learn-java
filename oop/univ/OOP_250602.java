@@ -20,7 +20,7 @@ class Outer {
             }
         }
 
-        return new test();
+        // return new test();
 
         // test test = new test();
         // test.prt(); // local inner class
@@ -33,8 +33,8 @@ public class OOP_250602 {
         Outer.Inner inner1 = outer1.new Inner();
         Outer.Inner inner2 = outer1.new Inner();
 
-        myInterface ifs = new Outer().prtSomething();
-        ifs.prt();
+        //myInterface ifs = new Outer().prtSomething();
+        // ifs.prt();
 
 
     }
