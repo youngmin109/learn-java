@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="NestedClass">
-      <change afterPath="$PROJECT_DIR$/oop/univ/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/univ/NotInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250604.java" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="capture variable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/univ/OOP_250602.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/univ/OOP_250602.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +213,7 @@
       <workItem from="1748236055601" duration="8194000" />
       <workItem from="1748409579734" duration="6009000" />
       <workItem from="1748842780259" duration="10620000" />
-      <workItem from="1749013233455" duration="5010000" />
+      <workItem from="1749013233455" duration="7216000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -508,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748876610817</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="capture variable">
+      <option name="closed" value="true" />
+      <created>1749036073504</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1749036073504</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +542,8 @@
     <MESSAGE value="InterfaceTest" />
     <MESSAGE value="ExceptionUniv1" />
     <MESSAGE value="NestedClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="NestedClass" />
+    <MESSAGE value="capture variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="capture variable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
