@@ -4,142 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="OOP_innerclass">
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250609.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250609_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/A1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/B1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Bar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Baz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/C1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Car2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Card2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/CastingTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Center.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Coach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Constructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/FireEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/HttpBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/InheritanceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/InterfaceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Jungsuck_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Jungsuck_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Jungsuck_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Jungsuck_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Jungsuck_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/MiddleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Pf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Pg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Point1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Point3D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/ProtectedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Sf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Sg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Slamdunk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/hello1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/study/hello2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/A1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/AndroidPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Aus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/B1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Bar3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Baz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Board$Display.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Board$Pagination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Bon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Boo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/C1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Car3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Caz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Desktop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/ElectronicDevice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/ExternalMouserEventHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Foo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Foo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Foo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Fuz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/GscStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/IPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/InnerClassExample$MouseEventHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/InnerClassExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/ItemBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/ItemBox3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/KL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Laptop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Le232.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/MechanicStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/MyMath3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/NonInnerClassExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/NotInnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250305.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250310.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250317.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250323.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250325.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250326.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250327.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250331.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250402__Inheritance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250407.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250409.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250414.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250416.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250421.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250423.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250430.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250507.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250519.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250526.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250528.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250602.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OOP_250604.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Outer$1test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Outer1$1Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Outer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/OverLoading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/P.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Pos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Pos2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Pos3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Q.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/SmartPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/StdScoreMgr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Student_manage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/Z.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/myInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/OOP/univ/test.class" afterDir="false" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="feat: 0609 input comment">
+      <change afterPath="$PROJECT_DIR$/oop/univ/OOP_250616.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/study/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/study/InnerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -240,6 +107,7 @@
     "애플리케이션.OOP_250604.executor": "Run",
     "애플리케이션.OOP_250609.executor": "Run",
     "애플리케이션.OOP_250609_thread.executor": "Run",
+    "애플리케이션.OOP_250616.executor": "Run",
     "애플리케이션.OverLoading.executor": "Run",
     "애플리케이션.Slamdunk.executor": "Run",
     "애플리케이션.Student_manage.executor": "Run",
@@ -352,7 +220,10 @@
       <workItem from="1748842780259" duration="10620000" />
       <workItem from="1749013233455" duration="7216000" />
       <workItem from="1749307818222" duration="2294000" />
-      <workItem from="1749445552692" duration="8016000" />
+      <workItem from="1749445552692" duration="8929000" />
+      <workItem from="1749809004585" duration="1264000" />
+      <workItem from="1749882933940" duration="602000" />
+      <workItem from="1750052913012" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -658,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749307891551</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="feat: 0609 input comment">
+      <option name="closed" value="true" />
+      <created>1749473275397</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749473275397</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,7 +570,8 @@
     <MESSAGE value="NestedClass" />
     <MESSAGE value="capture variable" />
     <MESSAGE value="OOP_innerclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_innerclass" />
+    <MESSAGE value="feat: 0609 input comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 0609 input comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
