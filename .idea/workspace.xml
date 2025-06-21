@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study: 250616 Lambda Expression" />
+    <list default="true" id="11935de3-0429-47a1-afac-e72b3306bc83" name="변경" comment="study: 250616 Lambda Expression">
+      <change afterPath="$PROJECT_DIR$/oop/study/LambdaExpression.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,73 +50,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/OneDrive/바탕 화면/learn-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.CastingTest1.executor": "Run",
-    "애플리케이션.Class1105.executor": "Run",
-    "애플리케이션.Class1113.executor": "Run",
-    "애플리케이션.Class1128.executor": "Run",
-    "애플리케이션.Constructor.executor": "Run",
-    "애플리케이션.GuiEvent.executor": "Run",
-    "애플리케이션.InheritanceTest.executor": "Run",
-    "애플리케이션.InnerClass.executor": "Run",
-    "애플리케이션.InterfaceTest.executor": "Run",
-    "애플리케이션.J6_7.executor": "Run",
-    "애플리케이션.Jungsuck_2.executor": "Run",
-    "애플리케이션.Jungsuck_4.executor": "Run",
-    "애플리케이션.MiddleTest.executor": "Run",
-    "애플리케이션.NotInnerClass.executor": "Run",
-    "애플리케이션.OOP_250305.executor": "Run",
-    "애플리케이션.OOP_250310.executor": "Run",
-    "애플리케이션.OOP_250317.executor": "Run",
-    "애플리케이션.OOP_250323.executor": "Run",
-    "애플리케이션.OOP_250325.executor": "Run",
-    "애플리케이션.OOP_250326.executor": "Run",
-    "애플리케이션.OOP_250402__Inheritance.executor": "Run",
-    "애플리케이션.OOP_250407.executor": "Run",
-    "애플리케이션.OOP_250409.executor": "Run",
-    "애플리케이션.OOP_250414.executor": "Run",
-    "애플리케이션.OOP_250416.executor": "Run",
-    "애플리케이션.OOP_250421.executor": "Run",
-    "애플리케이션.OOP_250423.executor": "Run",
-    "애플리케이션.OOP_250430.executor": "Run",
-    "애플리케이션.OOP_250507.executor": "Run",
-    "애플리케이션.OOP_250519.executor": "Run",
-    "애플리케이션.OOP_250526.executor": "Run",
-    "애플리케이션.OOP_250528.executor": "Run",
-    "애플리케이션.OOP_250602.executor": "Run",
-    "애플리케이션.OOP_250604.executor": "Run",
-    "애플리케이션.OOP_250609.executor": "Run",
-    "애플리케이션.OOP_250609_thread.executor": "Run",
-    "애플리케이션.OOP_250616.executor": "Run",
-    "애플리케이션.OverLoading.executor": "Run",
-    "애플리케이션.Slamdunk.executor": "Run",
-    "애플리케이션.Student_manage.executor": "Run",
-    "애플리케이션.Test.executor": "Run",
-    "애플리케이션.Test5_review.executor": "Run",
-    "애플리케이션.Test7.executor": "Run",
-    "애플리케이션.Test7_kaibaipo.executor": "Run",
-    "애플리케이션.UML_250402.executor": "Run",
-    "애플리케이션.test8Nested.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/바탕 화면/learn-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.CastingTest1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1105.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1113.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Class1128.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GuiEvent.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.InheritanceTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.InnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.InterfaceTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.J6_7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Jungsuck_2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Jungsuck_4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MiddleTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.NotInnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250305.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250310.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250317.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250323.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250325.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250326.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250402__Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250407.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250409.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250414.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250416.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250421.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250423.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250430.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250507.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250519.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250526.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250528.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250602.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250604.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250609.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250609_thread.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OOP_250616.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OverLoading.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Slamdunk.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Student_manage.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test5_review.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Test7_kaibaipo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.UML_250402.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test8Nested.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="oop.study" />
@@ -220,6 +222,7 @@
       <workItem from="1749809004585" duration="1264000" />
       <workItem from="1749882933940" duration="602000" />
       <workItem from="1750052913012" duration="3160000" />
+      <workItem from="1750512195969" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
